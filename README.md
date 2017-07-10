@@ -48,6 +48,8 @@ Do you use Ltac selectors (`1:`, `all:`, `par:`)?
 
 Do you use multiple successes (basically `+`)?
 
+Do you write nested lemmas (start a proof within an outer proof script)? Do you leave nested lemmas in the final development, or only during development?
+
 # Type of usage
 
 Do you ever need to improve the performance of Ltac code (to reduce memory usage or time)?
